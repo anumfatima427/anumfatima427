@@ -10,7 +10,7 @@ I'm a Researcher :boom:
 
 👩‍💻 I'm currently working on my thesis and HEC funded projects
 
-🧠 I'm currently pursuing MS in Software Engineering from NUST, Pakistan 
+🧠 MS in Software Engineering from NUST, Pakistan 
 
 🤔 My interests are article writing, research, blogging
 
@@ -18,7 +18,7 @@ I'm a Researcher :boom:
 
 📫 You can reach me at anumfatima427@gmail.com
 
-😄 Here's my blog website, here I post about technology, research and more
+😄 Here's my [blog](https://dicedtalk.com/), here I post about technology, research and more...
 
 ⚡️ Fun fact: You'll always find me doing something. Also, I like to DIY, I think it gives a personal touch to everything!
 
