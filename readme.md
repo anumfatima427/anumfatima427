@@ -8,7 +8,7 @@ I'm a Researcher :boom:
 
 
 
-👩‍💻 I'm currently working on my thesis and HEC funded projects
+👩‍💻 I'm currently working as a research assistant 
 
 🧠 MS in Software Engineering from NUST, Pakistan 
 
